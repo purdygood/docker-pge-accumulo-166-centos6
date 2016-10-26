@@ -1,0 +1,9 @@
+
+alias hdfsls='hdfs dfs -ls '
+alias hdfsrm='hdfs rm '
+alias hdfsrmr='hdfs rm -r '
+alias hdfsget='hdfs dfs -get '
+alias hdfsput='hdfs dfs -put '
+alias hdfscat='hdfs dfs -cat '
+alias hdfstail='hdfs dfs -tail '
+
